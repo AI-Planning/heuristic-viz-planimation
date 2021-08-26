@@ -244,7 +244,6 @@ define(function () {
         click = clickHvizPlanimation;
 
       } else {
-        console.log("initialize once!!!!")
         window.toastr.warning("Please enable the Heuris first, then enable this plugin")
         disableIfHvizNotLoad()
 
