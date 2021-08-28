@@ -16,6 +16,6 @@ This plugin is depending on the Heuristic Vizualization plugin, and it enables t
 4. Then install the Heuristic Vizualization with Planimation plugin
 5. Upload Domain, Problem, and Animation PDDL to build and animate the search tree
 
-Any feedback, bug reports, comments, questions, or concerns can be sent to [Nir Lipovetzky]).
+Any feedback, bug reports, comments, questions, or concerns can be sent to [Nir Lipovetzky].
 
 [Nir Lipovetzky]:<mailto:nir.lipovetzky@unimelb.edu.au>
